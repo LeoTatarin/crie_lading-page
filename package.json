@@ -1,0 +1,25 @@
+{
+  "name": "crie_landing_page",
+  "version": "1.0.0",
+  "description": "\"# crie_lading-page\"",
+  "scripts": {
+    "dev": "parcel src/index.html src/styles/main.scss src/scripts/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoTatarin/crie_lading-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoTatarin/crie_lading-page/issues"
+  },
+  "homepage": "https://github.com/LeoTatarin/crie_lading-page#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.15.4",
+    "parcel": "^2.15.4",
+    "sharp": "^0.33.5"
+  }
+}
