@@ -1,0 +1,23 @@
+@use 'hero';
+@use 'detalhes';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+    background-color: rgb(46, 45, 45);
+    color: white;
+}
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.separador {
+    background-image: url(../img/fita.png);
+    height: 40px;
+}
